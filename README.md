@@ -1,14 +1,15 @@
 # wellbe.social
 
-> wellbe.social helps you connect and share with the people in your life.
+> wellbe.social will help you connect and share with the people in your life.
 > In a healthy way. On your terms.
 
-A place to keep up with the people in your life, built by a democratically
-organised non-profit that intends to still be here in twenty years.
+We are going to build a place to keep up with the people in your life, as a
+democratically organised non-profit that intends to still be here in twenty
+years.
 
-It does not exist yet. What exists is a waiting list and a statement of what
-we are going to be, which is the right order: people should get to read what
-we stand for before we ask them to trust us with anything.
+What exists today is a waiting list and a statement of what we are going to be,
+which is the right way round: people should get to read what we stand for
+before we ask them to trust us with anything.
 
 ## What we choose, and what we are choosing it over
 
@@ -31,7 +32,7 @@ value, for more people, over more years.
 | | |
 |---|---|
 | [`pawe/wellbe-landing`](https://github.com/pawe/wellbe-landing) | The page people see today, and the waiting list behind it. Rust, axum, Postgres. |
-| this repository | The product itself, once there is one. Currently the place where what we stand for is written down. |
+| this repository | The product we are going to build. Currently the place where what we stand for is written down. |
 
 ## What is actually decided
 
