@@ -38,9 +38,18 @@ you — none of which we control on somebody else's server.
 
 ## Money
 
-How this is paid for, given principle 1 rules out the usual answer.
-Memberships, donations, public funding, and paid features are all still open,
-and each one changes who the organisation is accountable to.
+How this is paid for. Memberships, donations, public funding, paid features and
+advertising are all still on the table.
+
+Principle 1 does not rule advertising out. What it rules out is the kind that
+needs people profiled in order to be targeted, or a product built to hold their
+attention so the advert can be shown again — which is, inconveniently, the kind
+that pays best. Untargeted advertising against a product that is trying to let
+you leave is a much smaller business, and whether it is a large enough one is a
+real question rather than a rhetorical one.
+
+Each option changes who the organisation ends up accountable to, and that, more
+than the revenue, is what has to be decided deliberately.
 
 ## What the product actually is
 

@@ -39,13 +39,15 @@ value, for more people, over more years.
 Very little, deliberately, and it is worth being honest about which is which.
 
 **Decided.** The four principles above. Non-profit, democratically organised.
-Rust and Postgres. No advertising, no engagement metrics, no selling anybody's
-attention.
+Rust and Postgres. No engagement metrics, and nobody profiled so that things
+can be aimed at them.
 
 **Not decided.** The legal form and the country it is registered in. How
 membership works, and what a member gets to vote on. Where the line falls
 between rules that run automatically and judgements that stay with people.
-Whether federation is worth its cost. How any of it is paid for.
+Whether federation is worth its cost. How any of it is paid for — advertising
+very much included, as long as it is the kind that needs neither a profile of
+you nor a grip on your attention.
 
 Those are open questions, not gaps waiting to be filled in quietly by whoever
 writes the code first. They are listed in

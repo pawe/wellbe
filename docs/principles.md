@@ -11,19 +11,30 @@ giving up.
 
 ## 1. People's wellbeing over profit
 
-Nobody's attention is for sale here. No advertising, no engagement targets, no
-feed tuned to keep you scrolling past your bedtime. If the healthy thing for
-you today is to close the app and go and see someone, the app should help you
-do exactly that and count it as a success.
+We are not going to farm your attention. No engagement targets, no feed tuned
+to keep you scrolling past your bedtime, no profile of you assembled so that
+somebody can aim things at it. If the healthy thing for you today is to close
+the app and go and see someone, the app should help you do that and count it as
+a success. How this gets paid for is still an open question, advertising
+included — but not in any form that needs us to hold on to your attention or to
+know things about you.
 
-**What we give up.** The business model that funds almost every other social
-network, and with it the easy answer to "how is this paid for?". We do not have
-a complete answer yet. We would rather have the question open than have it
-closed the usual way.
+That distinction is the whole principle, so it is worth stating plainly rather
+than hiding behind a slogan. An advert on a page is not what damages people. An
+advert that follows them around, sitting in a feed engineered to keep them
+there so it can be shown again, is. The first stays on the table. The second
+does not, whatever it would be worth.
+
+**What we give up.** The versions of advertising that pay best. An advert that
+targets nobody, and sits in a product that is trying to let you leave, is worth
+a fraction of one that does the opposite — so keeping this means earning less
+from the same page than we otherwise could. How the organisation is actually
+funded is listed as an open question, not settled here.
 
 **How you could tell we broke this.** A metric about time-spent appearing in
 anything we report on ourselves. A feature whose purpose is to bring you back
-rather than to help you when you are here.
+rather than to help you when you are here. An advertiser being told anything at
+all about an individual person.
 
 ---
 
